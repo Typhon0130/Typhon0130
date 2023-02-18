@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Hi there 👋![ruby-programming-language](https://user-images.githubusercontent.com/125342474/219843732-4ed66a46-6d54-4adb-8d9d-979f0e002443.png)
+
+### Hi there 👋
+### Hi there 👋
+
 
 <!--
 **Typhon0130/Typhon0130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
